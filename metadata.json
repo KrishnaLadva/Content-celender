@@ -1,0 +1,8 @@
+{
+  "name": "OrbitFlow",
+  "description": "AI Social Media & Content Operations Dashboard featuring dark/light theme persistence in localStorage, weekly content calendar, pipeline tracking, and approval workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
